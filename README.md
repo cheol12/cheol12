@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center"><b>Tool</b></p>
-<br>
 <p align="center"><img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/-eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a></p>
