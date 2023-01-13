@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-maven-C71A36?style=for-the-badge&logo=maven&logoColor=white"/></a>
 
 <br>
-<p align="center" style="font-size:20;"><b>Tool</b></p>
+<p align="center" style="font-size:30px"><b>Tool</b></p>
 <br>
 <p align="center"><img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a></p>
