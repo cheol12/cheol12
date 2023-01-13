@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-maven-C71A36?style=for-the-badge&logo=maven&logoColor=white"/></a>
 
-Tool\n
+<br>
+Tool
+<br>
 <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>
