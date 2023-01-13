@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"><b>experience</b></p>
+<p align="center"><b>Experience</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
