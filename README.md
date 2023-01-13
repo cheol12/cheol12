@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-maven-C71A36?style=for-the-badge&logo=maven&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky66951@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheol12&show_icons=true&theme=radical)
